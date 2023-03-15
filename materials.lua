@@ -33,7 +33,7 @@ if minetest.get_modpath( "bakedclay") then
    end
 end
 
-
+--[[
 if minetest.get_modpath( "darkage") then
 	facade.register_facade_nodes("darkage", "basalt", "darkage:basalt", "Basalt")
 	facade.register_facade_nodes("darkage", "chalk", "darkage:chalk", "Chalk")
@@ -45,7 +45,7 @@ if minetest.get_modpath( "darkage") then
 	facade.register_facade_nodes("darkage", "shale", "darkage:shale", "Shale")
 	facade.register_facade_nodes("darkage", "slate", "darkage:slate", "Slate")
 end
-
+]]--
 
 if minetest.get_modpath( "nether") then
 	facade.register_facade_nodes("nether", "rack", "nether:rack", "Netherrack")
