@@ -1,6 +1,6 @@
 # Facade
 
-[![](https://github.com/minetest-mods/facade/workflows/Check%20&%20Release/badge.svg)](https://github.com/minetest-mods/facade/actions)
+[![](https://github.com/minetest-mods/stoneworks/workflows/luacheck/badge.svg)](https://github.com/minetest-mods/facade/actions)
 [![License](https://img.shields.io/badge/license-LGPLv2.1%2B-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
 Adds decorative clay and stone-type nodes to Minetest Game.

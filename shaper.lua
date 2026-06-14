@@ -212,7 +212,7 @@ local function check_inventory_move (pos, from_list, from_index, to_list, to_ind
 		return 0
 	end
 
-	return(stack:get_count())
+	return count
 
 end
 
